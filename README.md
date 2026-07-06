@@ -24,15 +24,6 @@ I'm passionate about transforming raw data into meaningful insights and making r
 
 This research project investigated the relationship between smartphone usage patterns and self-reported attention, productivity, and procrastination among young adults (18–30 years). With smartphones increasingly integrated into daily life, concerns have emerged regarding their potential impact on cognitive functioning and task-related behavior.
 
-**Key contributions:**
-- Designed and conducted an anonymous online survey assessing daily screen time, social media use, phone behavior during study/work sessions, sleep duration, and stress levels
-- Performed statistical analyses including Pearson correlation, linear regression, mediation analysis (bootstrapping with 5,000 resamples), and K-means clustering
-- Processed and cleaned data using Python (pandas, numpy) with a final analytical sample of 94 participants
-- Results showed no significant association between overall screen time and attention; specific usage patterns demonstrated weak associations
-- Attention was positively associated with both productivity and procrastination, revealing a complex role in self-regulatory processes
-- Cluster analysis identified three distinct behavioral profiles with significant differences in procrastination
-- Documented findings in a full academic pre-print using LaTeX
-
 ## Socials
 
   <a href="https://linkedin.com/in/adelya-idimova">
