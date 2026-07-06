@@ -26,11 +26,7 @@ This research project investigated the relationship between smartphone usage pat
 
 ## Socials
 
-  <a href="https://linkedin.com/in/adelya-idimova">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  <a href="https://github.com/ТВОЙ_NICKNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <a href="mailto:idimovaa@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  <a href="https://t.me/kaiadel">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  <a href="https://linkedin.com/in/adelya-idimova"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/ТВОЙ_NICKNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:idimovaa@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://t.me/kaiadel"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
