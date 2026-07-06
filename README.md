@@ -35,8 +35,6 @@ This research project investigated the relationship between smartphone usage pat
 
 ## Socials
 
-<p align="center">
-  
   <a href="https://linkedin.com/in/adelya-idimova">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   <a href="https://github.com/ТВОЙ_NICKNAME">
@@ -45,5 +43,3 @@ This research project investigated the relationship between smartphone usage pat
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   <a href="https://t.me/kaiadel">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-
-</p>
