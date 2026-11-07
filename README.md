@@ -14,7 +14,6 @@ My current research focuses on applying machine learning methods to cybersecurit
 Have a practical skills in Data Analytics and Business Intelligence skills, working with **Excel, SQL, Python, and Power BI**, with the goal of applying analytical methods to real-world business and technical challenges.
 ## Tech Stack
 
- <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
   <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
